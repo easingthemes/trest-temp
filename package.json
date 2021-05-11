@@ -1,0 +1,27 @@
+{
+  "name": "@draganfilipovic/npm-nc-template",
+  "version": "1.3.0",
+  "description": "<Package description>",
+  "license": "MIT",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/easingthemes/npm-nc-template"
+  },
+  "main": "dist/main.js",
+  "contributors": [
+    {
+      "name": "First Name Last Name",
+      "email": "email@domain.com"
+    }
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [
+    "keyword"
+  ]
+}
